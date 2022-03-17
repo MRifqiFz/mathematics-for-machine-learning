@@ -5,7 +5,7 @@ Since we're aiming at data-driven applications, we'll be implementing some of th
 
 At the end of this course you will have an intuitive understanding of vectors and matrices that will help you bridge the gap into linear algebra problems, and how to apply these concepts to machine learning.
 
-## Books
+### Books
 
 In the UK, we tend to write our courses from scratch based on what we think is important to include and introduce things in the order we think presents the material in the most elegant and illuminating way - we don't just go through a particular set textbook. So there isn't an exact 'model text' that we are following in this course. But, our way of thinking about things is informed by the textbooks we use, the teachers who taught us, how we use things in research and by interactions with our own students - so of course all sorts of textbooks are useful.
 
@@ -13,7 +13,7 @@ In the UK, we tend to write our courses from scratch based on what we think is i
 
 2. In US graduate school classes people often use Introduction to Linear Algebra by Gilbert Strang, Wellesley-Cambridge Press, 5th Ed, 2016. http://math.mit.edu/~gs/linearalgebra/
 
-## Web Resources
+### Web Resources
 
 There are, of course, a whole bunch of useful web resources on linear algebra - many of which were helpful to us in preparing this course! These might also be handy to you - typically they go a bit slower or have a different emphasis or way of explaining things, but it can be handy to see how someone else explains something.
 
